@@ -1,0 +1,31 @@
+Cosmos_War_of_the_Planets.mp4
+  File does not meet the resolution: 640x360
+  File does not meet the aspect ratio: 16:9
+  File does not meet the framerate: 25 fps
+  Audio bit rate is ABOVE 256 kbs
+  
+  Last_man_on_earth_1964.mov  is not in mp4 format
+  Video bit rate NOT in range 2-5 mb/s
+  File does not meet the video codec: h.264
+  File does not meet the framerate: 25 fps
+  Audio bit rate is ABOVE 256 kbs
+  File does not meet the audio codec: aac
+  
+  The_Gun_and_the_Pulpit.avi  is not in mp4 format
+  Video bit rate NOT in range 2-5 mb/s
+  File does not meet the video codec: h.264
+  File does not meet the resolution: 640x360
+  File does not meet the aspect ratio: 16:9
+  Audio bit rate is ABOVE 256 kbs
+  File does not meet the audio codec: aac
+  
+  The_Hill_Gang_Rides_Again.mp4
+  Video bit rate NOT in range 2-5 mb/s
+  
+  Voyage_to_the_Planet_of_Prehistoric_Women.mp4
+  Video bit rate NOT in range 2-5 mb/s
+  File does not meet the video codec: h.264
+  File does not meet the framerate: 25 fps
+  Audio bit rate is ABOVE 256 kbs
+  File does not meet the audio codec: aac
+  
